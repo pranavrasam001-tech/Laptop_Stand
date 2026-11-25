@@ -1,101 +1,112 @@
-# adjustable laptop riser
+# Adjustable laptop riser
 
-a simple and practical laptop riser designed to provide a comfortable viewing position and better support while working
+A simple and practical laptop riser designed to provide a comfortable viewing position and better support while working.
 
-## about the project
+## About the project
 
-this project is a 3d cad model of an adjustable laptop riser designed using autodesk fusion 360
+This project is a 3D model of an adjustable laptop riser, designed using Autodesk Fusion 360.
 
-the main idea was to create a stand that is stable compact and easy to use while allowing the user to adjust the laptop to different viewing angles
+The idea was to create a stand that is stable, compact and easy to use, while allowing the user to adjust the laptop to different viewing angles.
 
-the design includes a wide laptop platform with ventilation slots support arms a stable base and an adjustable hinge mechanism
+The design includes a wide platform with ventilation slots, two supporting arms, a stable base and an adjustable hinge mechanism.
 
-the entire model was created and maintained in a single fusion 360 file
+The entire design was created and maintained in a single Fusion 360 file.
 
-## features
+## Features
 
-- adjustable laptop viewing platform
-- four planned viewing angles of 15 25 35 and 45 degrees
-- ventilation slots for better airflow
-- front stopper to prevent the laptop from sliding
-- two supporting arms for stability
-- stable base design
-- pivot holes and locking mechanism
-- rubber grip pads to reduce slipping
-- rounded edges for a clean finish
-- compact and practical design
+- Adjustable laptop viewing platform
+- Four planned viewing angles of 15°, 25°, 35° and 45°
+- Ventilation slots to allow better airflow
+- Front stopper to keep the laptop from sliding
+- Two supporting arms for better balance
+- Strong and stable base
+- Pivot holes and locking pins for angle adjustment
+- Rubber pads to prevent slipping
+- Rounded edges for a neat finish
+- Compact and practical design
 
-## dimensions
+## Dimensions
 
-| part | dimensions |
+| Part | Dimensions |
 | --- | --- |
-| laptop platform | 280 x 220 x 4 mm |
-| platform corner radius | 10 mm |
-| support arms | 160 x 20 x 8 mm |
-| base feet | 220 x 25 x 8 mm |
-| base corner radius | 5 mm |
-| pivot holes | 6 mm diameter |
-| ventilation slots | 6 mm diameter |
-| front stopper height | 12 mm |
+| Laptop platform | 280 × 220 × 4 mm |
+| Platform corner radius | 10 mm |
+| Support arms | 160 × 20 × 8 mm |
+| Base feet | 220 × 25 × 8 mm |
+| Base corner radius | 5 mm |
+| Pivot holes | 6 mm diameter |
+| Ventilation slots | 6 mm diameter |
+| Front stopper height | 12 mm |
 
-## tools used
+## Tools used
 
-- autodesk fusion 360
+- Autodesk Fusion 360
 
-## design overview
+## Design overview
 
-the laptop platform provides enough space to hold the laptop and includes ventilation slots to improve airflow
+The laptop platform provides enough space to hold a laptop comfortably. It also has ventilation slots to help air circulate underneath.
 
-the support arms connect the platform with the base and help maintain balance while adjusting the viewing position
+The two support arms connect the platform to the base and help keep the stand balanced at different heights.
 
-the base feet provide stability and include spaces for rubber pads to reduce movement on the desk
+The base feet provide support on the desk, while the rubber pads help prevent the stand from moving around.
 
-the hinge mechanism uses pivot holes and locking pins to support different viewing positions
+The hinge mechanism uses pivot holes and locking pins to hold the platform at the selected angle.
 
-rubber pads and hinge covers complete the overall design and give it a cleaner appearance
+The hinge covers and rubber grip pads give the stand a neat finish and make it more practical to use.
 
-## design verification
+## Assembly instructions
 
-the hinge arrangement was reviewed using temporary copies of the existing bodies
+The following steps explain how the different parts are intended to fit together.
 
-the locking hole alignment and clearances were checked at the four planned viewing angles
+1. **Prepare the base**
 
-the main platform arms connectors and base feet showed no collisions in the tested configurations
+2. **Fit the support arms**
 
-the complete component assembly and folding motion have not yet been completed in the current part design document
+3. **Attach the hinge connectors**
+   
+4. **Fit the laptop platform**
 
-## project information
+5. **Set the viewing angle**
 
-| detail | information |
+6. **Add the finishing parts**
+
+7. **Check the stand**
+
+**Note:** These are the intended assembly steps based on the current design. The complete assembly, folding movement and locking mechanism still need to be tested.
+
+## Design verification
+
+The hinge arrangement was checked using temporary copies of the existing parts.
+
+The locking holes and available space were reviewed at the four planned viewing angles.
+
+The main platform, support arms, connectors and base feet showed no interference in the configurations that were checked.
+
+The complete assembly and folding movement have not yet been tested in the current Fusion 360 file.
+
+## Project information
+
+| Detail | Information |
 | --- | --- |
-| project | adjustable laptop riser |
-| software | autodesk fusion 360 |
-| file format | f3d |
-| project type | 3d cad design |
-| total working time | 6 hours 53 minutes |
-| status | cad model completed with further assembly testing pending |
+| Project | Adjustable laptop riser |
+| Software | Autodesk Fusion 360 |
+| File format | F3D |
+| Project type | 3D CAD design |
+| Total working time | 6 hours 53 minutes |
+| Status | Main design completed, with assembly testing still pending |
 
-## what i learned
+## What I learned
 
-working on this project helped me understand how to create a practical product using 3d modelling
+Working on this project helped me understand how an everyday product can be designed from the ground up.
 
-i gained experience with sketches extrusions solid bodies mechanical design dimensions and component alignment
+I gained experience in creating sketches, building solid parts, working with dimensions and designing parts that need to fit together.
 
-i also learned how important it is to check clearances and understand how different parts interact before considering a design ready for manufacturing
+I also learned the importance of checking measurements, clearances and the way different parts connect before moving towards the final product.
 
-## future improvements
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/9e27d7e1-75b7-46bb-9f20-ea26db316beb" />
+<img width="923" height="846" alt="image" src="https://github.com/user-attachments/assets/8755d4aa-2bab-4788-acaa-08855ca2da30" />
 
-- complete the assembly and joint setup
-- test the folding and unfolding movement
-- verify all adjustment positions
-- improve the physical support for the hinge connectors
-- complete collision checks for all components
-- prepare the model for 3d printing
 
-## conclusion
+I enjoyed working on each part and understanding how the different pieces come together to form the laptop riser.
 
-this project gave me an opportunity to turn a simple everyday idea into a detailed 3d cad design
-
-i enjoyed working on the different parts and understanding how they fit together to create a functional product
-
-there is still room for improvement in the assembly and movement testing but the main design is ready for further development
+Although the assembly and movement tests are still to be completed, the main design is ready for the next stage of development.
