@@ -55,7 +55,8 @@ i added the finishing details to make the riser more complete this included rubb
 # date:25/11
 # time spent:1.79hrs
 ## description:
-in the final phase i reviewed the complete laptop riser design within the same fusion 360 file i kept all the existing bodies in their original document and positions i added the platform lugs and pivot holes and tested the hinge arrangement using temporary copies i checked the locking hole alignment and clearances at 15 25 35 and 45 degrees the design remains in a single f3d file without creating a separate assembly document
+finally, I reviewed the complete Laptop_Stand with 360. I have checked each and every position in which it can be raised or lowered, with all holes such that every hole is being fitted into that pin.
+For this, I have created a separate assembly document. From the start, I have used the part design, but now I have created an assembly document where these are all being placed again. Also, these are all jointed in the assembly design. Checked, verified. 
 ## Images
 <img width="391" height="354" alt="image" src="https://github.com/user-attachments/assets/ff380ad7-1ea8-4d5b-9fc2-452763f1dc4a" />
 <img width="940" height="754" alt="image" src="https://github.com/user-attachments/assets/61c12676-b673-447c-bc45-4d179c741fb0" />
