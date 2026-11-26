@@ -1,30 +1,28 @@
-
-,Part Name,Revision/Version,Description,Part Number,Item Number,Lifecycle,Revision,State,Quantity,Change Order,Price (USD)
-,Laptop_Stand,,,2026-11-25-22-14-23-746,,,,Working,1,,12.3919
-1,Hinge Cover Left Locking,,,2026-11-25-22-15-14-756,,,,Working,1,,0.0142
-2,Rubber Grip Pad Left 3,,,2026-11-25-22-15-13-667,,,,Working,1,,0.0240
-3,Right Hinge Connector,,,2026-11-25-22-15-12-899,,,,Working,1,,0.6274
-4,Anti-Slip Pad Left,,,2026-11-25-22-15-14-376,,,,Working,1,,0.3195
-5,Rubber Grip Pad Right 4,,,2026-11-25-22-15-14-270,,,,Working,1,,0.0240
-6,Rubber Grip Pad Left 1,,,2026-11-25-22-15-13-330,,,,Working,1,,0.0240
-7,Right Connector Support Post,,,2026-11-25-22-19-01-014,,,,Working,1,,0.0047
-8,Hinge Cover Left Pivot,,,2026-11-25-22-15-14-647,,,,Working,1,,0.0142
-9,Right Locking Pin,,,2026-11-25-22-15-13-161,,,,Working,1,,0.0131
-10,Left Support Arm,,,2026-11-25-22-15-12-132,,,,Working,1,,0.6530
-11,Rubber Grip Pad Left 4,,,2026-11-25-22-15-13-805,,,,Working,1,,0.0240
-12,Rubber Grip Pad Right 2,,,2026-11-25-22-15-14-065,,,,Working,1,,0.0240
-13,Left Base Foot,,,2026-11-25-22-15-12-325,,,,Working,1,,1.0821
-14,Right Base Foot,,,2026-11-25-22-15-12-458,,,,Working,1,,1.0821
-15,Left Pivot Pin,,,2026-11-25-22-15-12-675,,,,Working,1,,0.0189
-16,Anti-Slip Pad Right,,,2026-11-25-22-15-14-530,,,,Working,1,,0.3195
-17,Left Locking Pin,,,2026-11-25-22-15-12-794,,,,Working,1,,0.0131
-18,Hinge Cover Right Pivot,,,2026-11-25-22-15-14-901,,,,Working,1,,0.0142
-19,Laptop Support Platform,,,2026-11-25-22-15-11-811,,,,Working,1,,6.7060
-20,Hinge Cover Right Locking,,,2026-11-25-22-15-15-090,,,,Working,1,,0.0142
-21,Left Connector Support Post,,,2026-11-25-22-19-01-193,,,,Working,1,,0.0047
-22,Rubber Grip Pad Left 2,,,2026-11-25-22-15-13-515,,,,Working,1,,0.0240
-23,Rubber Grip Pad Right 3,,,2026-11-25-22-15-14-167,,,,Working,1,,0.0240
-24,Rubber Grip Pad Right 1,,,2026-11-25-22-15-13-955,,,,Working,1,,0.0240
-25,Right Support Arm,,,2026-11-25-22-15-12-234,,,,Working,1,,0.6530
-26,Left Hinge Connector,,,2026-11-25-22-15-12-567,,,,Working,1,,0.6274
-27,Right Pivot Pin,,,2026-11-25-22-15-13-059,,,,Working,1,,0.0189
+Item Number,Part Name,Part Number,Revision,State,Quantity,Material,Price (USD),Product Link
+1,Hinge Cover Left Locking,ALR-001,A,Working,1,PLA,0.0142,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+2,Rubber Grip Pad Left 3,ALR-002,A,Working,1,TPU,0.024,https://kspelectronics.in/product/esun-tpu-95a-filament-1-75mm-1kg-black/
+3,Right Hinge Connector,ALR-003,A,Working,1,PLA,0.6274,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+4,Anti-Slip Pad Left,ALR-004,A,Working,1,TPU,0.3195,https://kspelectronics.in/product/esun-tpu-95a-filament-1-75mm-1kg-black/
+5,Rubber Grip Pad Right 4,ALR-005,A,Working,1,TPU,0.024,https://kspelectronics.in/product/esun-tpu-95a-filament-1-75mm-1kg-black/
+6,Rubber Grip Pad Left 1,ALR-006,A,Working,1,TPU,0.024,https://kspelectronics.in/product/esun-tpu-95a-filament-1-75mm-1kg-black/
+7,Right Connector Support Post,ALR-007,A,Working,1,PLA,0.0047,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+8,Hinge Cover Left Pivot,ALR-008,A,Working,1,PLA,0.0142,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+9,Right Locking Pin,ALR-009,A,Working,1,PLA,0.0131,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+10,Left Support Arm,ALR-010,A,Working,1,PLA,0.653,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+11,Rubber Grip Pad Left 4,ALR-011,A,Working,1,TPU,0.024,https://kspelectronics.in/product/esun-tpu-95a-filament-1-75mm-1kg-black/
+12,Rubber Grip Pad Right 2,ALR-012,A,Working,1,TPU,0.024,https://kspelectronics.in/product/esun-tpu-95a-filament-1-75mm-1kg-black/
+13,Left Base Foot,ALR-013,A,Working,1,PLA,1.0821,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+14,Right Base Foot,ALR-014,A,Working,1,PLA,1.0821,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+15,Left Pivot Pin,ALR-015,A,Working,1,PLA,0.0189,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+16,Anti-Slip Pad Right,ALR-016,A,Working,1,TPU,0.3195,https://kspelectronics.in/product/esun-tpu-95a-filament-1-75mm-1kg-black/
+17,Left Locking Pin,ALR-017,A,Working,1,PLA,0.0131,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+18,Hinge Cover Right Pivot,ALR-018,A,Working,1,PLA,0.0142,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+19,Laptop Support Platform,ALR-019,A,Working,1,PLA,6.706,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+20,Hinge Cover Right Locking,ALR-020,A,Working,1,PLA,0.0142,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+21,Left Connector Support Post,ALR-021,A,Working,1,PLA,0.0047,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+22,Rubber Grip Pad Left 2,ALR-022,A,Working,1,TPU,0.024,https://kspelectronics.in/product/esun-tpu-95a-filament-1-75mm-1kg-black/
+23,Rubber Grip Pad Right 3,ALR-023,A,Working,1,TPU,0.024,https://kspelectronics.in/product/esun-tpu-95a-filament-1-75mm-1kg-black/
+24,Rubber Grip Pad Right 1,ALR-024,A,Working,1,TPU,0.024,https://kspelectronics.in/product/esun-tpu-95a-filament-1-75mm-1kg-black/
+25,Right Support Arm,ALR-025,A,Working,1,PLA,0.653,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+26,Left Hinge Connector,ALR-026,A,Working,1,PLA,0.6274,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
+27,Right Pivot Pin,ALR-027,A,Working,1,PLA,0.0189,https://kspelectronics.in/product-category/3d-printers-and-parts/3d-printer-filaments/
