@@ -78,3 +78,4 @@ I also had to think about small details such as the front stopper, ventilation s
 <img width="923" height="846" alt="Laptop riser parts and design" src="https://github.com/user-attachments/assets/8755d4aa-2bab-4788-acaa-08855ca2da30" />
 <img width="753" height="604" alt="image" src="https://github.com/user-attachments/assets/c99bd186-e76a-4a99-8013-2c9fa591d7f8" />
 <img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/416cd044-19a3-4c1b-8f9c-b86451f2027e" />
+
